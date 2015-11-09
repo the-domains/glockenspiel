@@ -2,6 +2,7 @@ name: glockenspiel
 favicon: null
 layout_spectrum: 0.21643371367827058
 typography_spectrum: 0.8746311389841139
+title: glockenspiel
 cta:
   domain: null
   bucket: null
