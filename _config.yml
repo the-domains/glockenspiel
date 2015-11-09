@@ -1,0 +1,23 @@
+name: glockenspiel
+favicon: null
+layout_spectrum: 0.21643371367827058
+typography_spectrum: 0.8746311389841139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.21475603943690658
+  lightness: 0.13199280062690377
+  saturation: 0.9800312372390181
+  rhythmicContrast: 0.23667852417565882
+purpose: []
